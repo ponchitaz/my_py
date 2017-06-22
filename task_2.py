@@ -7,4 +7,4 @@ def howFar(x,y):
     if theX > theY:
         x, y = y, x
         theX, theY = theY, theX
-
+    line1 = range(theX+1)
